@@ -1,2 +1,2 @@
-#This is our Git Branching lab
-## Testing git branching
+#This is our GREAT Git Branching lab
+## Testing THE BEST git branching
